@@ -1,0 +1,11 @@
+<scheme name="Darcula mine" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0833334" />
+  <option name="CONSOLE_FONT_NAME" value="Inconsolata" />
+  <attributes>
+    <option name="SQL_EXTERNAL_TOOL">
+      <value>
+        <option name="BACKGROUND" value="364135" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

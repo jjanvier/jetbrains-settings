@@ -1,0 +1,24 @@
+<application>
+  <component name="PhpTestFrameworkSettings">
+    <test_tools>
+      <tool tool_name="PHPSpec">
+        <settings>
+          <configurations>
+            <configuration_by_sdk interpreter_id="60841b99-b6cd-45ce-81d3-af38fad28944" configuration_file_path="/srv/pim/phpspec.yml.dist" executable_path="/srv/pim/vendor/phpspec/phpspec/bin/phpspec" use_configuration_file="true" />
+          </configurations>
+        </settings>
+      </tool>
+    </test_tools>
+  </component>
+  <component name="PhpTestFrameworkVersionCache">
+    <tools_cache>
+      <tool tool_name="PHPSpec">
+        <cache>
+          <versions>
+            <info id="interpreter-60841b99-b6cd-45ce-81d3-af38fad28944" version="5.1.0" />
+          </versions>
+        </cache>
+      </tool>
+    </tools_cache>
+  </component>
+</application>

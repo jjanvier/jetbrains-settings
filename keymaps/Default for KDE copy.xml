@@ -1,0 +1,35 @@
+<keymap version="1" name="Default for KDE copy" parent="Default for KDE">
+  <action id="ActivateChangesToolWindow">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="alt 5" />
+    <keyboard-shortcut first-keystroke="alt left_parenthesis" />
+  </action>
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+    <keyboard-shortcut first-keystroke="alt quotedbl" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="alt ampersand" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="Tool_External Tools_php-cs-fixer">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+</keymap>

@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0482e0b4-955a-45a5-b34e-32e8d66ac0c6" name="dev easypack" url="http://jj.devs.easypack.galilee.fr">
+        <fileTransfer host="jj.devs.easypack.galilee.fr" port="22" rootFolder="/var/www/easypack/jj/www" accessType="SFTP" password="dfcedfe8dfeedf90df99dff8dfd2dfe0df9e" username="apache">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

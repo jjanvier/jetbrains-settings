@@ -1,0 +1,11 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <removed pattern="" />
+      </blacklist>
+      <blacklist language="XML" />
+      <blacklist language="YAML" />
+    </blacklists>
+  </component>
+</application>

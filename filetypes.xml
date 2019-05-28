@@ -1,0 +1,36 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="generate-catalog" type="PHP" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="_master_bis" type="PLAIN_TEXT" />
+      <mapping pattern="input1" type="PLAIN_TEXT" />
+      <mapping pattern="browsermod-proxy" type="PLAIN_TEXT" />
+      <mapping pattern="default-worker" type="PLAIN_TEXT" />
+      <mapping pattern=".env.prod" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping pattern="association-type.yml" type="PLAIN_TEXT" />
+      <mapping pattern=".CHANGELOG-1.3.md.swp" type="PLAIN_TEXT" />
+      <mapping pattern="behat_def_new" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="LICENCE" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="toto" type="PLAIN_TEXT" />
+      <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
+      <mapping pattern="test-completeness-save" type="PLAIN_TEXT" />
+      <mapping pattern="apache24" type="PLAIN_TEXT" />
+      <mapping pattern="console" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="create_build_env" type="PLAIN_TEXT" />
+      <mapping pattern="start-mysql" type="PLAIN_TEXT" />
+      <mapping pattern="todo" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="java" type="PLAIN_TEXT" />
+      <mapping ext="xlf" type="PLAIN_TEXT" />
+      <mapping pattern="Xvnc" type="Bash" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,56 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jjanvier/kimsufi-utils.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jjanvier/Sylius-Docs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jjanvier/i-wish-i-was-a-rockstar-but-i-am-just-a-developer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jjanvier/Sylius.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jjanvier/AliceBundle.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jjanvier/Sylius-Standard.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jjanvier/ProjectEuler.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="jjanvier" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jjanvier/php-crowdin-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jjanvier/CrowdinBundle.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitorious.galilee.fr:easypack/easypack-dev.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/workspaces/phpstorm/galilee" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="MIGRATED" value="true" />
+  </component>
+</application>

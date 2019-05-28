@@ -5,6 +5,7 @@
       <MessDetectorConfiguration tool_path="$USER_HOME$/workspaces/phpstorm/akeneo/pim_master/pcd/app/Resources/jenkins/phpmd_akeneo" />
     </phpmd_settings>
   </component>
+  <component name="PhpAutoImport" global_class_behavior="PREFER_IMPORT" />
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
     <phpcs_settings>

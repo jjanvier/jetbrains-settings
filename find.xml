@@ -3,37 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.fe</mask>
-      <mask>*.fea</mask>
-      <mask>*.feat</mask>
-      <mask>$</mask>
-      <mask>$m</mask>
-      <mask>$me</mask>
-      <mask>$mes</mask>
-      <mask>$mess</mask>
-      <mask>$messa</mask>
-      <mask>$message</mask>
-      <mask>$messages</mask>
-      <mask>$messages.</mask>
-      <mask>$messages.en</mask>
-      <mask>$messages.en.</mask>
-      <mask>$messages.en.y</mask>
-      <mask>$messages.en.ym</mask>
-      <mask>$messages.en.yml</mask>
-      <mask>messages.en.yml</mask>
-      <mask>*messages.en.yml</mask>
-      <mask>j.yml</mask>
-      <mask>jo.yml</mask>
-      <mask>job.yml</mask>
-      <mask>jobs.yml</mask>
-      <mask>*.twig</mask>
-      <mask>requi*.yml</mask>
-      <mask>*en*.yml</mask>
-      <mask>*.md</mask>
-      <mask>*.feature</mask>
-      <mask>*.yml</mask>
-      <mask>*.php</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.php" />
   </component>
 </application>
